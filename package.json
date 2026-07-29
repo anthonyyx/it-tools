@@ -148,7 +148,6 @@
     "vite-svg-loader": "^5.0.0",
     "vitest": "^4.0.0",
     "workbox-window": "^7.4.1",
-    "wrangler": "^4.115.0",
     "zx": "^7.2.1"
   }
 }
